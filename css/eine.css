@@ -1,0 +1,49 @@
+         @font-face { font-family: Dancing Script; src: url('../font/DancingScript-Regular.ttf'); } 
+         th {
+            font-family:verdana;font-size:14px;
+         }
+         h2{
+            font-family:monospace;font-size:30px;
+         }
+         h3{
+            font-family:Courier New, monospace;
+         }
+         .footer{
+            font-family:Arial Narrow;
+         }
+         a:link, a:visited {
+           background-color: #E2D1DB;
+           color: #000000;
+           padding: 14px 25px;
+           text-align: center;
+           text-decoration: none;
+           display: inline-block;
+         }
+         a:hover, a:active {
+           background-color: #8C857B;
+         }
+         iframe 
+         { 
+           background-color:#ffffff;
+           border-color:#eee9e9 ;
+           border-width:0px;
+           height: 500px;
+           width:99%;
+           margin:0.5%;
+         }
+         label {
+           font-family:Courier New, monospace;
+         }
+         .dancing{
+            font-family: "Dancing Script"; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; line-height: 1;
+         }
+   
+       .dropcap:first-letter {
+           font-family: "Dancing Script";font-style: normal; font-variant: normal; 
+           float: left;
+           font-size: 300%;
+           font-weight:bold;
+           line-height: 0.85;
+           margin: 0.1em 0.1em 0.2em 0;
+           background-color: #FDC3C5;
+        }
